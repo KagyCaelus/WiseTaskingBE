@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiseTaskingBE", "WiseTaskingBE\WiseTaskingBE.csproj", "{22B9BF74-5B99-4F97-81D4-1B455833733E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{0DB361D8-99E4-44E5-99AD-47F804919567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{CDB56E50-E798-41D3-8A0F-7295060CF870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B9BF74-5B99-4F97-81D4-1B455833733E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B9BF74-5B99-4F97-81D4-1B455833733E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B9BF74-5B99-4F97-81D4-1B455833733E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B9BF74-5B99-4F97-81D4-1B455833733E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB361D8-99E4-44E5-99AD-47F804919567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB361D8-99E4-44E5-99AD-47F804919567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB361D8-99E4-44E5-99AD-47F804919567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB361D8-99E4-44E5-99AD-47F804919567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB56E50-E798-41D3-8A0F-7295060CF870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB56E50-E798-41D3-8A0F-7295060CF870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB56E50-E798-41D3-8A0F-7295060CF870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB56E50-E798-41D3-8A0F-7295060CF870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4CEB03-3006-4391-9EF5-F11C3CF75A11}
+	EndGlobalSection
+EndGlobal

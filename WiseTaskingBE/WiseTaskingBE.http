@@ -1,0 +1,6 @@
+@WiseTaskingBE_HostAddress = http://localhost:5138
+
+GET {{WiseTaskingBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
